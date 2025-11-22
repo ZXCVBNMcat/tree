@@ -1,0 +1,7 @@
+﻿  main.cpp
+F:\my C++\XX系统-1\main.cpp(114,2): warning C4060: switch 语句没有包含“case”或“default”标签
+  manager.cpp
+  teacher.cpp
+  正在生成代码...
+  LINK : 没有找到 F:\my C++\XX系统-1\x64\Debug\XX系统-1.exe 或上一个增量链接没有生成它；正在执行完全链接
+  XX系统-1.vcxproj -> F:\my C++\XX系统-1\x64\Debug\XX系统-1.exe
